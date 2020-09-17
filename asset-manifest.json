@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fast-rewards/static/css/main.5f361e03.chunk.css",
+    "main.js": "/fast-rewards/static/js/main.05745e0d.chunk.js",
+    "main.js.map": "/fast-rewards/static/js/main.05745e0d.chunk.js.map",
+    "runtime-main.js": "/fast-rewards/static/js/runtime-main.5c07b04a.js",
+    "runtime-main.js.map": "/fast-rewards/static/js/runtime-main.5c07b04a.js.map",
+    "static/js/2.3c18d93b.chunk.js": "/fast-rewards/static/js/2.3c18d93b.chunk.js",
+    "static/js/2.3c18d93b.chunk.js.map": "/fast-rewards/static/js/2.3c18d93b.chunk.js.map",
+    "index.html": "/fast-rewards/index.html",
+    "precache-manifest.1e59be05deb278038be64078c2bde050.js": "/fast-rewards/precache-manifest.1e59be05deb278038be64078c2bde050.js",
+    "service-worker.js": "/fast-rewards/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/fast-rewards/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3c18d93b.chunk.js.LICENSE.txt": "/fast-rewards/static/js/2.3c18d93b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/fast-rewards/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c07b04a.js",
+    "static/js/2.3c18d93b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.05745e0d.chunk.js"
+  ]
+}
