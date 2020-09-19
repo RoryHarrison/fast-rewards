@@ -60,7 +60,7 @@
 }
 
 .fcol{
-  border-width: 2px !important;
+  border-bottom-width: 5px !important;
   border-color: black !important;
   background-color: #2a2a2a;
   color: white;
