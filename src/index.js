@@ -1,12 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import Main from './component/Main';
 import * as serviceWorker from './serviceWorker';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <div style = {{
+      height: "100vh",
+      backgroundColor: "#fef2c1"
+    }}
+    >
+      <div>
+        <Main />
+      </div>
+    </div>
   </React.StrictMode>,
   document.getElementById('root')
 );
