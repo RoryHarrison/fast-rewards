@@ -10,7 +10,7 @@ ReactDOM.render(
   <React.StrictMode>
     <div style = {{
       height: "100vh",
-      backgroundColor: "#fef2c1"
+      backgroundColor: "white"
     }}
     >
       <div>
