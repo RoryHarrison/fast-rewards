@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/fast-rewards/static/css/main.5f361e03.chunk.css",
-    "main.js": "/fast-rewards/static/js/main.05745e0d.chunk.js",
-    "main.js.map": "/fast-rewards/static/js/main.05745e0d.chunk.js.map",
+    "main.css": "/fast-rewards/static/css/main.3ff4d9ad.chunk.css",
+    "main.js": "/fast-rewards/static/js/main.f12927aa.chunk.js",
+    "main.js.map": "/fast-rewards/static/js/main.f12927aa.chunk.js.map",
     "runtime-main.js": "/fast-rewards/static/js/runtime-main.5c07b04a.js",
     "runtime-main.js.map": "/fast-rewards/static/js/runtime-main.5c07b04a.js.map",
-    "static/js/2.3c18d93b.chunk.js": "/fast-rewards/static/js/2.3c18d93b.chunk.js",
-    "static/js/2.3c18d93b.chunk.js.map": "/fast-rewards/static/js/2.3c18d93b.chunk.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/fast-rewards/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.e1b83fd0.chunk.js": "/fast-rewards/static/js/2.e1b83fd0.chunk.js",
+    "static/js/2.e1b83fd0.chunk.js.map": "/fast-rewards/static/js/2.e1b83fd0.chunk.js.map",
     "index.html": "/fast-rewards/index.html",
-    "precache-manifest.1e59be05deb278038be64078c2bde050.js": "/fast-rewards/precache-manifest.1e59be05deb278038be64078c2bde050.js",
+    "precache-manifest.efce6d5bb6ffd430bbe6bc2cccfda4af.js": "/fast-rewards/precache-manifest.efce6d5bb6ffd430bbe6bc2cccfda4af.js",
     "service-worker.js": "/fast-rewards/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/fast-rewards/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.3c18d93b.chunk.js.LICENSE.txt": "/fast-rewards/static/js/2.3c18d93b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/fast-rewards/static/media/logo.5d5d9eef.svg"
+    "static/css/2.d9ad5f5c.chunk.css.map": "/fast-rewards/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.3ff4d9ad.chunk.css.map": "/fast-rewards/static/css/main.3ff4d9ad.chunk.css.map",
+    "static/js/2.e1b83fd0.chunk.js.LICENSE.txt": "/fast-rewards/static/js/2.e1b83fd0.chunk.js.LICENSE.txt",
+    "static/media/afkbanner.jpg": "/fast-rewards/static/media/afkbanner.51199ec4.jpg",
+    "static/media/diamond.png": "/fast-rewards/static/media/diamond.75caa22e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5c07b04a.js",
-    "static/js/2.3c18d93b.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.05745e0d.chunk.js"
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.e1b83fd0.chunk.js",
+    "static/css/main.3ff4d9ad.chunk.css",
+    "static/js/main.f12927aa.chunk.js"
   ]
 }
